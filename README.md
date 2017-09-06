@@ -1,4 +1,4 @@
 # hello-world
-This is just a hello world repository test but public.
+This is just a Hello World Repository test.
 
 OK. This is new line. welcome.
